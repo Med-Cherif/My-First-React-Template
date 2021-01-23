@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/My-First-React-Template-/static/css/main.15d25c92.chunk.css",
+    "main.js": "/My-First-React-Template-/static/js/main.abab3b30.chunk.js",
+    "main.js.map": "/My-First-React-Template-/static/js/main.abab3b30.chunk.js.map",
+    "runtime-main.js": "/My-First-React-Template-/static/js/runtime-main.66f34421.js",
+    "runtime-main.js.map": "/My-First-React-Template-/static/js/runtime-main.66f34421.js.map",
+    "static/js/2.b15a6cc1.chunk.js": "/My-First-React-Template-/static/js/2.b15a6cc1.chunk.js",
+    "static/js/2.b15a6cc1.chunk.js.map": "/My-First-React-Template-/static/js/2.b15a6cc1.chunk.js.map",
+    "index.html": "/My-First-React-Template-/index.html",
+    "static/css/main.15d25c92.chunk.css.map": "/My-First-React-Template-/static/css/main.15d25c92.chunk.css.map",
+    "static/js/2.b15a6cc1.chunk.js.LICENSE.txt": "/My-First-React-Template-/static/js/2.b15a6cc1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66f34421.js",
+    "static/js/2.b15a6cc1.chunk.js",
+    "static/css/main.15d25c92.chunk.css",
+    "static/js/main.abab3b30.chunk.js"
+  ]
+}
